@@ -9,9 +9,10 @@ Roll : 25 <br>
 
 <h3> Problem Statement : <u> Give an application and its implementation to demonstrate the rotations operations RB
         [Red-Black trees]</u> </h3>
+        <hr>
 <h3>Real Time Application of Red Black Tree</h3>
-<p> English Dictionary based on Red-Black Tree implementation with : a text-based user interface, supporting: load
-    dictionary from a text file, print size of the dictionary, insert or delete a word, and search for a word.</p>
+<p> <b>English Dictionary based on Red-Black Tree implementation  with  A text-based user interface, supporting load
+    dictionary from a text file, print size of the dictionary, insert or delete a word, and search for a word.</b></p>
 
 
 <h3>Red-Black trees :</h3>
